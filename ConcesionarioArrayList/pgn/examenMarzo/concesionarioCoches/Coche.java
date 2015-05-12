@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
 */
 public class Coche {
 	private String matricula;
+	private String strAyuda="Hola";
 	private Color color;
 	private Modelo modelo;
 	static final private Pattern patternMatricula = Pattern
